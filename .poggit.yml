@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  CustomScore:
+  MFTP:
     path: ""
     icon: icon.png
 ...
